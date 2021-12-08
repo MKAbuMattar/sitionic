@@ -50,7 +50,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
-	max-width: 25rem;
+	width: 25rem;
   min-height: 300px;
   position: relative;
   top: 0;
